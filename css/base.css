@@ -3,7 +3,6 @@
   -moz-transition: all 0.5s;
   transition: all 0.5s;
 }
-.intro-header {background-image:url('https://images.unsplash.com/photo-1558986377-c44f6a2b50f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80');}
 .background-cover,
 .intro-header {
   -webkit-background-size: cover;
